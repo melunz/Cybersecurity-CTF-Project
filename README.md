@@ -1,5 +1,6 @@
-Source files for the CTF are too large to upload to Github...
-The links for all the file sources are listed below:
+This CTF was created with a focus on **Digital Forensics**. CTF questions and answers are in the pptx file and created based on references listed in the slides. This is tailored for beginner level in terms of cybersecurity experience. 
+
+Source files for the CTF are too large to upload to Github, so the links for all the files are listed below:
 
 [Network Exercise (A) - Hanticor](https://www.malware-traffic-analysis.net/2021/02/08/)
 
