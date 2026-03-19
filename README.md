@@ -1,4 +1,8 @@
-This CTF was created with a focus on **Digital Forensics**. CTF questions and answers are in the pptx file and created based on references listed in the slides. This is tailored for beginner level in terms of cybersecurity experience. 
+This CTF was created with a focus on **Digital Forensics**. CTF questions and answers are in seperate pptx file and created based on references listed in the slides. This is tailored for beginner level in terms of cybersecurity experience. 
+
+There are 2 differing levels of difficulty prepared:
+- **Beginner** level is catered for people who are just starting out and new to Digital Forensic, and provides a more guided process of solving the exercises.
+- **Intermediate** level is catered for people who have some basic knowledge on Digital Forensic tools and usage, and provides a broader platform for the students to learn about the Digital Forensic process.
 
 Source files for the CTF are too large to upload to Github, so the links for all the files are listed below:
 
