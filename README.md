@@ -6,11 +6,11 @@ There are 2 versions that was prepared:
 
 Source files for the CTF are too large to upload to Github, so the links for all the files are listed below:
 
-[Network Exercise (A) - Hanticor](https://www.malware-traffic-analysis.net/2021/02/08/)
+[Network Exercise (A) - Hanticor](https://www.malware-traffic-analysis.net/2021/02/08/2021-02-08-traffic-analysis-exercise.pcap.zip)
 
-[Network Exercise (B) - Google Authenticator](https://www.malware-traffic-analysis.net/2025/01/22/index.html)
+[Network Exercise (B) - Google Authenticator](https://www.malware-traffic-analysis.net/2025/01/22/2025-01-22-traffic-analysis-exercise.pcap.zip)
 
-[Network Exercise (C) - Redline Stealer](https://unit42.paloaltonetworks.com/wireshark-quiz-redline-stealer/)
+[Network Exercise (C) - Redline Stealer](https://github.com/pan-unit42/Wireshark-quizzes/blob/main/2023-07-Unit42-Wireshark-quiz.pcap.zip)
 
 [Memory Exercise (A) - Stuxnet](https://www.jonrajewski.com/data/Malware/stuxnet.vmem.zip)
 
